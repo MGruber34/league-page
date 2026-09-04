@@ -25,7 +25,7 @@ export const managers = [
       "managerID": "471761618854735872",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Matt Gruber",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": null, // (optional)
+      "location": "The Lab", // (optional)
       "bio": "Insert Bio",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2007, // (optional) when did the manager start playing fantasy football
