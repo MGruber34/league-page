@@ -7,8 +7,23 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Insert league info</p>
- <p>More about the league</p>
+  <p>It was 2020.</p>
+ <p>The world shut down. Bars closed. Sports disappeared. Toilet paper became currency. And while civilization stood on the brink, a group of degenerates did what any reasonable people would do in the middle of a global pandemic: They started a dynasty fantasy football league.</p>
+ <p>What began in the depths of COVID has survived quarantines, questionable trades, blown draft picks, devastating injuries, and countless accusations of collusion. Seasons have come and gone, contenders have risen and fallen, and somewhere along the way, fantasy football became less of a hobby and more of a lifelong commitment to making terrible decisions.<p>
+ <p>This is a league where every draft pick matters, every trade is scrutinized, and rebuilding is always "two years away." Rosters are built for the future, championships are chased in the present, and someone's rookie draft pick is inevitably worth way more than yours.  This is the Dynasty Bois Fantasy Football League.<p>
+ <p>Salute to the Commissioner:<p>
+ <p>A special nod to our Commissioner, Evan Rosenberg, whose tireless work, endless administrative duties, and heroic willingness to deal with everyone's bullshit have kept this league functioning since Day One.<p>
+ <p>In Memoriam:<p>
+ <p>Not everyone who entered the league made it to the present day. Some fought valiantly. Some went quietly. Some simply stopped setting their lineups. Today, we honor the fallen soldiers whose names remain etched into league history:<p>
+ <p>Ant Dell: Gone, but never forgotten. May his roster find peace.<p>
+ <p>Paul LaRosa: A warrior of the early years. His legacy lives on in the group chat and questionable trade decisions.<p>
+ <p>Alex Cancell: Taken from us before his dynasty dreams could reach their full potential. His sacrifice will not be forgotten.<p>
+
+
+
+
+
+
 `;
 
 /*   STEP 3   */
